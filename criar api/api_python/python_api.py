@@ -6,7 +6,7 @@ import pprint
 
 ## WEATHER6981
 
-api_key ="bb6d4e27073a43fbbdd134305260803"
+api_key ="sua key"
 
 ### chave para conexão 
 
